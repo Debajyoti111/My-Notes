@@ -33,3 +33,8 @@ Once you do that, a note will be created. To delete it press on the "DELETE" wor
 
 ![2](https://user-images.githubusercontent.com/80357162/169806642-2313ed3f-3f13-4cfc-adc6-7ecc69160aac.png)
 
+/****************************FEATURES TO ADD****************************/
+
+1. An authentication set up for each user and associating the notes created by the user with their profile.
+2. Show the time when each note was created.
+
